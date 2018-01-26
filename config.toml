@@ -1,0 +1,26 @@
+DefaultContentLanguage = "en"
+baseURL = "http://example.org/"
+disqusShortname = "journey-of-a-junior-dev"
+googleAnalytics = "UA-113172708-1"
+
+[languges]
+[languages.en]
+title = "My personal blog"
+[[languages.en.menu.main]]
+url = "/about"
+name = "About me"
+[[languages.en.menu.main]]
+url = "/blog"
+name = "Blog"
+[[languages.en.menu.main]]
+url = "/impressum"
+name = "Impressum"
+[[languages.en.menu.main]]
+url = "/datenschutz"
+name = "Datenschutz"
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  extensions = ["hardLineBreak"]

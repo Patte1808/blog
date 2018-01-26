@@ -1,0 +1,10 @@
+<nav class="navbar">
+	<div class="navbar-start">
+		{{ $currentPage := . }}
+		{{ range .Site.Menus.main }}
+			<a class="navbar-item" href="{{ .URL }}">
+				{{ .Name }}
+			</a>
+		{{ end }}
+	</div>
+</nav>

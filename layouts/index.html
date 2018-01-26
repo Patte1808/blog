@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+
+<body>
+	{{ partial "navbar" . }}
+    <div class="container is-fluid">
+    	{{ range .Data.Pages }}
+    		{{ .Render "li" }}	
+    	{{ end }}
+    </div>
+    {{ partial "footer" . }}
+</body>

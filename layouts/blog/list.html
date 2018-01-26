@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+
+<body>
+	{{ partial "navbar.html" . }}
+
+	<div class="container is-fluid">
+		{{ range .Pages.ByPublishDate.Reverse }}
+			{{ .Render "li" }}	
+		{{ end }}
+	</div>
+</body>
