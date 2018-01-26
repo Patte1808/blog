@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseURL = "http://example.org/"
+baseURL = "http://www.patrickvoss.me"
 disqusShortname = "journey-of-a-junior-dev"
 googleAnalytics = "UA-113172708-1"
 
