@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:patte1808/patte1808.github.io.git
+	branch = master
