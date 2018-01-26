@@ -11,7 +11,7 @@ this is my first blog post ever written.
 My name is Patrick Voß. I'm a computer science student at the Humboldt-University in Berlin.
 
 #### What am I currently doing?
-Previously I worked as a web developer, where I worked with Django. 
+Previously I worked as a web developer, where I had the opportunity to use Django. 
 I just quit my job. I had amazing collegues, learned a lot and had a very good time.
 The decision to quit my job was a tough one.
 
