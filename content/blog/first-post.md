@@ -19,7 +19,7 @@ There's also this one app I'm using extensivly. It's called Jodel.
 If I had to describe it in one sentence I would say it's like Twitter, but you're only seeing posts from people near your current location. 
 (Remember: I'm a computer scientist, I don't have any experience in marketing :D)
 
-If Jodel karma every becomes a cryptocurrency, I'll be a very rich man - but one doesn't talk about karma.
+If Jodel karma ever becomes a cryptocurrency, I'll be a very rich man - but one doesn't talk about karma.
 
 I had some really amazing and funny experiences using Jodel. 
 I met people in my neighborhood and went with them to the gym. 
