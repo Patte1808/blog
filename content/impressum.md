@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Impressum"
 description = "something about me"
 date = "2014-09-02"
 type = "impressum"
